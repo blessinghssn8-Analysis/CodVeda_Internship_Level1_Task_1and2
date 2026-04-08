@@ -1,10 +1,10 @@
 # CodVeda_Internship_Level1_Task_1and2
 A comprehensive Exploratory Data Analysis (EDA) of the Iris Dataset using Python and Google Colab. This project identifies morphological patterns across flower species through statistical summaries and data visualization
 
-# 🌸 Nature's Mathematical Blueprint  
+# Nature's Mathematical Blueprint  
 ### Automating Iris Species Identification
 
-## 📌 Project Overview
+## Project Overview
 
 In biology, identifying species often requires expert level knowledge and careful observation. This project simplifies that process by applying data science techniques to uncover the **mathematical signatures** of the Iris flower.
 
@@ -12,7 +12,7 @@ Using 150 flower samples across three species: Setosa, Versicolor, and Virginica
 
 ---
 
-## 🎯 The Big Insight ("So What?")
+## The Big Insight ("So What?")
 
 This project proves that species classification can be automated using simple statistical analysis.
 
@@ -22,20 +22,20 @@ This insight forms the foundation for building accurate machine learning classif
 
 ---
 
-## 🛠️ Technical Methodology
+## Technical Methodology
 
 The project was executed using a structured four-phase pipeline to ensure data integrity, clarity, and reproducibility.
 
-### 1️⃣ Environment Integration
+### 1️ Environment Integration
 - Developed in Google Colab  
 - Dataset stored and accessed via Google Drive  
 - Ensured a fully reproducible cloud-based workflow  
 
-### 2️⃣ Data Acquisition
+### 2️ Data Acquisition
 - Used the Pandas library to load the Iris dataset  
 - Verified correct feature-to-variable mapping  
 
-### 3️⃣ Data Cleaning & Quality Checks
+### 3️ Data Cleaning & Quality Checks
 
 **Integrity Check**
 - Used `df.info()`  
@@ -49,7 +49,7 @@ The project was executed using a structured four-phase pipeline to ensure data i
 - Used `head()`, `tail()`, and `sample()`  
 - Confirmed no structural corruption or boundary errors  
 
-### 4️⃣ Statistical Processing
+### 4️ Statistical Processing
 - Used `df.describe()` to compute:  
   - Mean  
   - Standard Deviation  
@@ -58,7 +58,7 @@ The project was executed using a structured four-phase pipeline to ensure data i
 
 ---
 
-## 📋 Dataset Description
+## Dataset Description
 
 The analysis is based on the classic Iris dataset.
 
